@@ -1,5 +1,4 @@
 # Pacman-AI-Solver
-<h1>PacMan AI Solver</h1>
 
 <h2>Project Overview</h2>
 
